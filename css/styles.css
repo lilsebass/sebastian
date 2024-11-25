@@ -1,0 +1,123 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+.login-container {
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.login-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.login-container input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.login-container button {
+    width: 100%;
+    padding: 10px;
+    background: #5c67f2;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.login-container button:hover {
+    background: #4b56c1;
+}
+
+.titulo-bienvenida {
+    color: rgb(74, 115, 153);
+}
+
+
+
+
+
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 32px;
+    color: #333;
+    font-weight: bold;
+}
+
+textarea {
+    resize: vertical;
+}
+
+
+
+
+
+
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 90%;
+    margin: 20px auto;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #007BFF;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #e9ecef;
+}
+
+.table-bordered {
+    border: 1px solid #ddd;
+}
+
+.table-bordered th, .table-bordered td {
+    border: 1px solid #ddd;
+}
+
+.table-responsive {
+    overflow-x: auto;
+}
